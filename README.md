@@ -19,8 +19,6 @@ Tech Stacks
 - Backend :
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-
-- Database :
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 - DevOps :
@@ -31,4 +29,4 @@ Tech Stacks
 
 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wookgenie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wookgenie&layout=compact)
