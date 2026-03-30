@@ -24,9 +24,3 @@ Tech Stacks
 - DevOps :
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
-
----
-
-Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wookgenie&layout=compact)
